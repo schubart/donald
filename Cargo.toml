@@ -1,0 +1,8 @@
+[package]
+name = "donald"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+linux-embedded-hal = "0.3.2"
+pwm-pca9685 = "0.3.1"
