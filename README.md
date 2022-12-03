@@ -1,6 +1,6 @@
-# Donald
+Video:
 
-[![Video of the robot in action](media/thumbnail.jpg)](https://www.youtube.com/watch?v=q3dD5nk04J4)
+[![Video of the robot in action](media/thumbnail.jpg)](https://www.youtube.com/watch?v=q3dD5nk04J4&t=32s)
 
 Robot and Simon Air toy:
 
