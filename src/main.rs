@@ -33,7 +33,7 @@ fn main() {
             robot.wait_for_light_off(color);
         }
 
-        // Victory after replaying a sequence of 100 colors.
+        // The toy stops after a sequence of 100 colors: Victory.
         if colors.len() == 100 {
             break;
         }
